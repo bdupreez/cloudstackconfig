@@ -1,4 +1,4 @@
 version:
-  name: Default
-  major: 0.1
-  build: 10
+  name: Config Server
+  major: 0.2
+  build: 11
